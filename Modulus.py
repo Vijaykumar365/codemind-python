@@ -1,3 +1,4 @@
-v=int(input())
-k=int(input())
-print(v%k)
+
+vijay=int(input())
+jay=int(input())
+print(vijay%jay)
