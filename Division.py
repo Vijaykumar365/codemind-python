@@ -1,3 +1,3 @@
+t=int(input())
 v=int(input())
-k=int(input())
-print(v//k)
+print(t//v)
